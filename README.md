@@ -34,4 +34,4 @@ i write code, break stuff, fix it again, and drink a lot of tea
 
 ## 💬 say hi
 
-[📧 aahanagarwal87@example.com](mailto:aahanagarwal87@example.com) &nbsp;&nbsp;|&nbsp;&nbsp; [🌐 LinkedIn](https://linkedin.com)
+[📧 aahanagarwal87@example.com](mailto:aahanagarwal87@duck.com) &nbsp;&nbsp;|&nbsp;&nbsp; [🌐 LinkedIn](https://linkedin.com)
