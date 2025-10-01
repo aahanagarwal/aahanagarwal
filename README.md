@@ -1,4 +1,4 @@
-# hey, i'm aahan 👋
+# hey, i'm [aahan](https://aahan.vercel.app/) 👋
 
 i write code, break stuff, fix it again, and drink a lot of tea  
 (sometimes coffee — but don't tell tea).
@@ -34,4 +34,4 @@ i write code, break stuff, fix it again, and drink a lot of tea
 
 ## 💬 say hi
 
-📧 [aahanagarwal@duck.com](mailto:aahanagarwal@duck.com) &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 [linkedin](https://linkedin.com/in/aahan-agarwal) &nbsp;&nbsp;|&nbsp;&nbsp; 📷 [instagram](https://instagram.com/aahan__agarwal)
+📧 [aahanagarwal@duck.com](mailto:aahanagarwal@duck.com) &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 [linkedin](https://linkedin.com/in/aahan-agarwal) &nbsp;&nbsp;|&nbsp;&nbsp; 📷 [instagram](https://instagram.com/aahan__agarwal) &nbsp;&nbsp;|&nbsp;&nbsp; 🚀 [protfolio](https://aahan.vercel.app)
